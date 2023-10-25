@@ -3,10 +3,9 @@ description: Request a new PURL
 title: "[NEW] <title>"
 body:
 - type: input
-  id: prevalence
+  id: pname
   attributes:
-    label: Bug prevalence
-    description: "How often do you or others encounter this bug?"
-    placeholder: "Whenever I visit the user account page (1-2 times a week)"
+    label: Contact person name
+    description: The name of the contact person.
   validations:
-    required: true
+    required: false

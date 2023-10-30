@@ -15,7 +15,7 @@ body:
     label: Contact person email.
     description: The email of the contact person.
   validations:
-    required: true
+    required: false
 - type: markdown
   id: overview
   attributes:

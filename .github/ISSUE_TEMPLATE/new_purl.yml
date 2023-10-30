@@ -1,7 +1,6 @@
 name: new PURL
 description: Request a new PURL
 title: "[NEW] "
-  - placeholder: foaf
 body:
 - type: input
   id: pname

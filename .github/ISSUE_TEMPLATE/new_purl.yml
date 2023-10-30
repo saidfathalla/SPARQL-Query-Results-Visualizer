@@ -2,6 +2,8 @@ name: new PURL
 labels: ["new PURL", "help wanted"] 
 description: Request a new PURL
 title: "[NEW] "
+assignees:
+  - saidfathalla
 body:
 - type: input
   id: pname

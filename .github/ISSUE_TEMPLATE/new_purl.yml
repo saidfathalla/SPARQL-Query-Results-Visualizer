@@ -15,7 +15,7 @@ body:
     label: Contact person email.
     description: The email of the contact person.
   validations:
-    required: false
+    required: true
 - type: textarea
   id: overview
   attributes:

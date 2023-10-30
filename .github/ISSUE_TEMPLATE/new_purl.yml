@@ -26,9 +26,9 @@ body:
 - type: input
   id: prefix
   attributes:
-    label: What is your resource prefix(es)?
+    label: What is your resource prefix?
     description: |
-      E.g., foaf as of FOAF ontology.
+      Please submit a separate issue for each prefix, E.g., foaf as of FOAF ontology.
     placeholder: foaf
   validations:
     required: true

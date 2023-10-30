@@ -1,4 +1,5 @@
 name: new PURL
+label: "new PURL"
 description: Request a new PURL
 title: "[NEW] "
 body:

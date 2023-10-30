@@ -16,7 +16,7 @@ body:
     description: The email of the contact person.
   validations:
     required: false
-- type: markdown
+- type: textarea
   id: overview
   attributes:
     label: Overview in the README.md

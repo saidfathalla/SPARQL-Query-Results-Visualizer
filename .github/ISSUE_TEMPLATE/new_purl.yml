@@ -29,7 +29,7 @@ body:
     label: What is your resource prefix?
     description: |
       Please submit a separate issue for each prefix, E.g., foaf as of FOAF ontology.
-    placeholder: http://xmlns.com/foaf/0.1/
+    placeholder: foaf
   validations:
     required: true
 - type: input
@@ -38,7 +38,7 @@ body:
     label: Where is the resource located on the Web (i.e. the URL)?
     description: |
       The actual URL of the resource, i.e. a functional URL.
-    placeholder: foaf
+    placeholder: http://xmlns.com/foaf/0.1/
   validations:
     required: true
 - type: checkboxes

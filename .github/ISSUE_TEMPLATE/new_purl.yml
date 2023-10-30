@@ -29,7 +29,7 @@ body:
     label: What is your resource prefix?
     description: |
       Please submit a separate issue for each prefix, E.g., foaf as of FOAF ontology.
-    placeholder: foaf
+    placeholder: http://xmlns.com/foaf/0.1/
   validations:
     required: true
 - type: input

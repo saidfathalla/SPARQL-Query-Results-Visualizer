@@ -21,16 +21,16 @@ body:
     required: true
 - type: markdown
   attributes:
-    label: Overview in the README.md
-    description: Could you please give a brief description of what this PID is being redirected to?
+ #   label: Overview in the README.md
+ #   description: Could you please give a brief description of what this PID is being redirected to?
     value: |
-      "# Resource name"
+      # Resource name
       
-      "## Overview"
-      "A general review or summary of the resource."
+      ## Overview
+      A general review or summary of the resource.
       
-      "## reach out"
-      "Contact information:..."
+      ## reach out
+      Contact information:...
   validations:
     required: false
 - type: input

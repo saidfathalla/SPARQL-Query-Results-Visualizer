@@ -20,7 +20,6 @@ body:
   validations:
     required: true
 - type: markdown
-  id: markdown1
   attributes:
     label: Overview in the README.md
     description: Could you please give a brief description of what this PID is being redirected to?

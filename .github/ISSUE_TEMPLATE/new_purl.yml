@@ -24,13 +24,13 @@ body:
     label: Overview in the README.md
     description: Could you please give a brief description of what this PID is being redirected to?
     value: |
-      ### Resource name
-      
-      ### Overview
+     ### Resource name
+      The resource name goes here.
+     ### Overview
       A general review or summary of the resource.
-      
-      ### reach out
-      Contact information:...
+
+     ### Reach out
+      More contact information: (e.g. website, Git repo, etc)
   validations:
     required: false
 - type: input
